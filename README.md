@@ -1,61 +1,41 @@
-# ⚡️ [SYSTEM_ACCESS]: Granted
+# ⚡️ Welcome to My GitHub Profile!
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi,+I'm+Atahan+%2F%2F+Initialize...;Software+Engineering+Student;Completed+internships+in+IT+%26+R%26D;Computer+Vision+%26+Deep+Learning" alt="Hacker Typing" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Atahan+%F0%9F%91%8B;Software+Engineering+Student;Software+Engineer;Computer+Vision+%26+Deep+Learning" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 [USER_PROFILE]
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atahanArslan-gh/atahanArslan-gh/output/github-contribution-grid-snake-dark.svg" alt="Process Matrix" width="100%">
-</p>
-
-*   **[ROLE]:** Software Engineering Student
-*   **[STATUS]:** Internships Completed in IT and R&D
-*   **[FOCUS]:** Computer Vision, Deep Learning, Signal Processing
-*   **[EXPERTISE]:** Backend (FastAPI), Deployment (Docker, Cloud Run)
+* 🎓 Software Engineering Student.
+* 💼 Completed internships in IT and R&D departments.
+* 🧠 Developing projects focused on Computer Vision, Deep Learning, and Signal Processing.
+* ⚙️ Passionate about building backend services (FastAPI) and deploying containerized applications (Docker, Cloud Run) to the cloud.
 
 ---
 
-## 🛠️ [TECHNOLOGY_STACK] // Load Modules
+## 🛠️ Skills & Technologies
 
+<!-- Skill Icons Animation -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,gcp,git,github,vscode&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,gcp,git,github,vscode" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-## 📊 [SYSTEM_REPORT] // Diagnostic Data
+## 🐍 Contribution Snake
 
+<!-- Snake Animation (Auto-updates daily via GitHub Actions) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atahanArslan-gh&show_icons=true&theme=tokyonight&count_private=true" alt="atahanArslan-gh Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atahanArslan-gh&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 🚀 [FEATURED_PROJECTS]
-
-*   **[License-Plate-Recognition-API](https://github.com/atahanArslan-gh/License-Plate-Recognition-API):**
-    *   `#` Python, FastAPI, YOLO, EasyOCR
-    *   *Description:* Vehicle plate recognition system.
-*   **[RF-Modulation-Classification](https://github.com/atahanArslan-gh/RF-Modulation-Classification):**
-    *   `#` 1D CNN, ResNet, CLDNN
-    *   *Description:* Signal classification model using deep learning.
-
----
-
-## 📞 [COMMUNICATION_CHANNELS]
-
-<p align="center">
-  <a href="mailto:thn.arslan28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/atahan-arslan-b21338397/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atahanArslan-gh/atahanArslan-gh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atahanArslan-gh/atahanArslan-gh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
